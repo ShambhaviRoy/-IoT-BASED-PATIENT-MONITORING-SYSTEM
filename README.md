@@ -2,11 +2,17 @@
 Developed a smart patient monitoring system using Arduino UNO to monitor physiological parameters like heart rate and body temperature of a patient giving email notifications to user in case of abnormal condition.
 
 Hardware Components:
+
 ●	Ardino UNO
+
 ●	Heartbeat (Pulse) Sensor: It counts the heartbeat for specific interval of time and estimates Beats per Minute
+
 ●	Temperature Sensor: It measures the temperature and both the data are sent to the Arduino UNO microcontroller for transmission to receiving end.
+
 ●	Buzzer
-●	LED’s
+
+●	LEDs
+
 ●	Resistors
 
 Working:
